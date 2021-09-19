@@ -1,0 +1,59 @@
+/* === Piazzolla - regular */
+@font-face {
+	font-family: 'Piazzolla';
+	font-style: normal;
+	font-weight: 400;
+	font-display: swap;
+	src: url("./font/Piazzolla-Regular.eot");
+	src: local('Piazzolla'),
+		url("./font/Piazzolla-Regular.eot") format("embedded-opentype"),
+		url("./font/Piazzolla-Regular.woff2") format("woff2"),
+		url("./font/Piazzolla-Regular.woff") format("woff"),
+		url("./font/Piazzolla-Regular.ttf") format("truetype"),
+		url("./font/Piazzolla-Regular.svg") format("svg");
+}
+
+/* === Piazzolla - 500 */
+@font-face {
+	font-family: 'Piazzolla';
+	font-style: normal;
+	font-weight: 500;
+	font-display: swap;
+	src: url("./font/Piazzolla-Medium.eot");
+	src: local('Piazzolla'),
+		url("./font/Piazzolla-Medium.eot") format("embedded-opentype"),
+		url("./font/Piazzolla-Medium.woff2") format("woff2"),
+		url("./font/Piazzolla-Medium.woff") format("woff"),
+		url("./font/Piazzolla-Medium.ttf") format("truetype"),
+		url("./font/Piazzolla-Medium.svg") format("svg");
+}
+
+/* === Piazzolla - 500italic */
+@font-face {
+	font-family: 'Piazzolla';
+	font-style: italic;
+	font-weight: 500;
+	font-display: swap;
+	src: url("./font/Piazzolla-MediumItalic.eot");
+	src: local('Piazzolla'),
+		url("./font/Piazzolla-MediumItalic.eot") format("embedded-opentype"),
+		url("./font/Piazzolla-MediumItalic.woff2") format("woff2"),
+		url("./font/Piazzolla-MediumItalic.woff") format("woff"),
+		url("./font/Piazzolla-MediumItalic.ttf") format("truetype"),
+		url("./font/Piazzolla-MediumItalic.svg") format("svg");
+}
+
+/* === Piazzolla - 700italic */
+@font-face {
+	font-family: 'Piazzolla';
+	font-style: italic;
+	font-weight: 700;
+	font-display: swap;
+	src: url("./font/Piazzolla-BoldItalic.eot");
+	src: local('Piazzolla'),
+		url("./font/Piazzolla-BoldItalic.eot") format("embedded-opentype"),
+		url("./font/Piazzolla-BoldItalic.woff2") format("woff2"),
+		url("./font/Piazzolla-BoldItalic.woff") format("woff"),
+		url("./font/Piazzolla-BoldItalic.ttf") format("truetype"),
+		url("./font/Piazzolla-BoldItalic.svg") format("svg");
+}

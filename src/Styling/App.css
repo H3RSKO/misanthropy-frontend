@@ -1,0 +1,15 @@
+.app {
+  /* The image used */
+  background-image: url(../media/bg.jpg);
+
+  /* Full height */
+  height: 100vh;
+  margin: 0;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  overflow: auto;
+}
